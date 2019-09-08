@@ -25,12 +25,13 @@
   
   * [hw1-hw5](高性能计算导论/)
 * 存储技术基础
-  * [key-value Engine]()
+  * [key-value Engine](<https://github.com/heheda12345/Key-Value-Engine>)
   * [文件系统(My part)](<https://github.com/heheda12345/StorageClass-AWS>)
 * 数值分析
   * [上机作业](数值分析/上机作业/)
-  
   * [调研报告-大型张量的CP分解算法](数值分析/调研报告.pdf)
   
-    
+* Java程序设计与训练
+  * [客户端](<https://github.com/heheda12345/Android-News-App>)
+  * [后端](<https://github.com/heheda12345/Android-News-Server>)
 
