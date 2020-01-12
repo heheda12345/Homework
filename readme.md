@@ -35,3 +35,18 @@
   * [客户端](<https://github.com/heheda12345/Android-News-App>)
   * [后端](<https://github.com/heheda12345/Android-News-Server>)
 
+* 计算机网络原理与计算机组成原理联合实验
+  * [硬件部分](<https://github.com/heheda12345/BurningRouter>)
+  * [软件部分](<https://github.com/namasikanam/RIP>)
+
+* 编译原理
+  * [Decaf编译器](<https://github.com/heheda12345/decaf>)
+
+* 信号处理原理
+  * [实验题](信号处理原理/)
+
+* 数据库系统概论
+  * [SQL Server](<https://github.com/heheda12345/DB-project>)
+
+* 网络安全工程与实践
+  * [Socks代理](<https://github.com/heheda12345/NaiveSocks>)
